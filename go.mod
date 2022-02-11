@@ -4,7 +4,7 @@ go 1.14
 
 require (
 	github.com/denverdino/aliyungo v0.0.0-20201222091910-a47aa053adf7
-	github.com/docker/distribution v2.7.1+incompatible
+	github.com/docker/distribution v2.8.0+incompatible
 	github.com/ghodss/yaml v1.0.0
 	github.com/go-cmd/cmd v1.2.0
 	github.com/golang/groupcache v0.0.0-20180513044358-24b0969c4cb7 // indirect
