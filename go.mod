@@ -7,16 +7,14 @@ require (
 	github.com/docker/distribution v2.7.1+incompatible
 	github.com/ghodss/yaml v1.0.0
 	github.com/go-cmd/cmd v1.2.0
-	github.com/golang/groupcache v0.0.0-20180513044358-24b0969c4cb7 // indirect
-	github.com/googleapis/gnostic v0.2.0 // indirect
 	github.com/prometheus/client_golang v1.0.0
 	github.com/spf13/pflag v1.0.5
-	golang.org/x/net v0.0.0-20191004110552-13f9640d40b9
+	golang.org/x/net v0.0.0-20201110031124-69a78807bb2b
 	gopkg.in/square/go-jose.v2 v2.4.1 // indirect
-	k8s.io/api v0.18.1
-	k8s.io/apimachinery v0.18.1
+	k8s.io/api v0.20.0
+	k8s.io/apimachinery v0.20.0
 	k8s.io/apiserver v0.0.0
-	k8s.io/client-go v0.18.1
+	k8s.io/client-go v0.20.0
 	k8s.io/cloud-provider v0.0.0
 	k8s.io/component-base v0.18.1
 	k8s.io/klog v1.0.0
