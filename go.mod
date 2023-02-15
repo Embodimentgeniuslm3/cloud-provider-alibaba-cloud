@@ -9,9 +9,9 @@ require (
 	github.com/go-cmd/cmd v1.2.0
 	github.com/golang/groupcache v0.0.0-20180513044358-24b0969c4cb7 // indirect
 	github.com/googleapis/gnostic v0.2.0 // indirect
-	github.com/prometheus/client_golang v1.0.0
+	github.com/prometheus/client_golang v1.11.1
 	github.com/spf13/pflag v1.0.5
-	golang.org/x/net v0.0.0-20191004110552-13f9640d40b9
+	golang.org/x/net v0.0.0-20200625001655-4c5254603344
 	gopkg.in/square/go-jose.v2 v2.4.1 // indirect
 	k8s.io/api v0.18.1
 	k8s.io/apimachinery v0.18.1
